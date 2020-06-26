@@ -16,6 +16,7 @@ Specific Study Techniques
 The Mental Game
 - _Feel the Fear... and Do It Anyway_, Susan Jeffers, PhD
 - _The Happiness Advantage_, Shawn Achor
+- _So Good They Can't Ignore You_, Cal Newport
 
 Interesting Reads
 - _The Talent Code: Unlocking the Secret of Skill in Sports, Art, Music, Math, and Just About Everything Else_, Daniel Coyle
@@ -23,3 +24,8 @@ Interesting Reads
 
 Coding
 - _Cracking the Coding Interview: 189 Programming Questions and Solutions, 6th Edition_, Gayle Laakmann McDowell
+- _Clean Code: A Handbook of Agile Software Craftsmanship_, Robert C. Martin  
+
+Miscellaneous
+- _48 Studies_, Franz Wilhelm Ferling
+- _Patterns for Jazz: A Theory Text for Jazz Composition and Improvisation_, Jerry Coker
