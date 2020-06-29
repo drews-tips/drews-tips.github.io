@@ -22,6 +22,13 @@ The Mental Game
 Interesting Reads
 - _The Talent Code: Unlocking the Secret of Skill in Sports, Art, Music, Math, and Just About Everything Else_, Daniel Coyle
 - _Daily Rituals: How Artists Work_, Mason Currey
+- _Benjamin Franklin: An American Life_, Walter Isaacson
+- _John Adams_, David McCullough
+- _Drive: The Surprising Truth About What Motivates Us_, Dan Pink
+- _When: The Scientific Secrets of Perfect Timing_, Dan Pink
+
+The Social Side
+- _How to Win Friends and Influence People_, Dale Carnegie
 
 Coding
 - _Cracking the Coding Interview: 189 Programming Questions and Solutions, 6th Edition_, Gayle Laakmann McDowell
