@@ -13,6 +13,7 @@
 - _A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)_, Barbara Oakley
 - _The Little Book of Talent: 52 Tips for Improving Your Skills_, Daniel Coyle
 - _Getting Things Done_, David Allen
+- <a href="#" onclick="return false;">_Peak: Secrets from the New Science of Expertise_</a>, K. Anders Ericsson
 
 ### The Mental Game
 - _Feel the Fear... and Do It Anyway_, Susan Jeffers, PhD
