@@ -14,6 +14,7 @@
 - _The Little Book of Talent: 52 Tips for Improving Your Skills_, Daniel Coyle
 - _Getting Things Done_, David Allen
 - <a href="#" onclick="return false;">_Peak: Secrets from the New Science of Expertise_</a>, K. Anders Ericsson
+- <a href="#" onclick="return false;">_Peak Performance Elevate Your Game, Avoid Burnout, and Thrive with the New Science of Success_</a>, Brad Stulberg, Steve Magness
 
 ### The Mental Game
 - _Feel the Fear... and Do It Anyway_, Susan Jeffers, PhD
