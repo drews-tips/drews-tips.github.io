@@ -25,6 +25,7 @@
 - _Daily Rituals: How Artists Work_, Mason Currey
 - _Benjamin Franklin: An American Life_, Walter Isaacson
 - _John Adams_, David McCullough
+- <a href="#" onclick="return false;">_Alexander Hamilton_</a>, Ron Chernow
 
 ### Helpful Pop Science and Psychology
 - _The Talent Code: Unlocking the Secret of Skill in Sports, Art, Music, Math, and Just About Everything Else_, Daniel Coyle
